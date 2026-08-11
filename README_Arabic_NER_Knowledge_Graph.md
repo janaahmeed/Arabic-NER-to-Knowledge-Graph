@@ -1,8 +1,8 @@
-# Arabic NER → Relations → Knowledge Graph
 
 ## Project Title
 
 **Arabic NER to Knowledge Graph: From Entity Recognition to Relationship Modeling**
+# Arabic NER → Relations → Knowledge Graph
 
 ## Overview
 
