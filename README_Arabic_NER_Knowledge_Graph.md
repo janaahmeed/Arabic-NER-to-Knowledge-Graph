@@ -2,6 +2,7 @@
 ## Project Title
 
 **Arabic NER to Knowledge Graph: From Entity Recognition to Relationship Modeling**
+# convert complex info for simpler visualization
 # Arabic NER → Relations → Knowledge Graph
 
 ## Overview
@@ -233,7 +234,7 @@ pip install -r requirements.txt
 Rule-based NER:
 
 ```bash
-python ner_rule_based.py "زار الرئيس عبد الفتاح السيسي جامعة القاهرة يوم الاثنين"
+python ner_rule_based.py "sampled text"
 ```
 
 Train Model A:
@@ -257,7 +258,7 @@ python train_model_a.py --train-only
 Run Model B:
 
 ```bash
-python model_b_transformer.py "توجه وزير الخارجية إلى دمشق لعقد اجتماع مع الأمم المتحدة"
+python model_b_transformer.py " Sampled text "
 ```
 
 Extract relations:
