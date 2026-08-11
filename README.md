@@ -1,9 +1,11 @@
 
-## Project Title
 
-**Arabic NER to Knowledge Graph: From Entity Recognition to Relationship Modeling**
-# convert complex info for simpler visualization
-# Arabic NER → Relations → Knowledge Graph
+
+# **Arabic NER to Knowledge Graph: From Entity Recognition to Relationship Modeling**
+
+convert complex info for simpler visualization
+
+ Arabic NER → Relations → Knowledge Graph
 
 ## Overview
 
