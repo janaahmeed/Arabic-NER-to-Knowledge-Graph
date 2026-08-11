@@ -3,6 +3,9 @@
 
 # **Arabic NER to Knowledge Graph: From Entity Recognition to Relationship Modeling**
 
+**Tested APP **
+https://drive.google.com/file/d/1XB4qoiArH7kh9rWRlF5ajnvjKHhywXF_/view?usp=sharing
+
 convert complex info for simpler visualization
 
  Arabic NER → Relations → Knowledge Graph
