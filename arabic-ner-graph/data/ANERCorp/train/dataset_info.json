@@ -1,0 +1,42 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "aner_corp",
+  "dataset_size": 2746407,
+  "description": "",
+  "download_size": 1029992,
+  "features": {
+    "word": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tag": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 3776399,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2286358,
+      "num_examples": 125102,
+      "dataset_name": "aner_corp"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 460049,
+      "num_examples": 25008,
+      "dataset_name": "aner_corp"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
